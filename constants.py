@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-#
+
 # Created by: Roman Cernetchi
-# Created on: November 2020
+# Created on: Janurary 2021
 # This is a constants program on Pybadge
 
 SCREEN_X = 160
@@ -30,5 +30,5 @@ button_state = {
 }
 
 # new pallet for red filled text
-RED_PALETTE = (b'\xff\xff\x00\x22\xcey\x22\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+BLUE_PALETTE = (b'\xff\xff\x00\x22\xcey\x22\xff\xff\xff\xff\xff\xff\xff\xff\xff'
                b'\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff')
